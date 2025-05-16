@@ -14,7 +14,7 @@
     <ToolCommandName>atlas-ef</ToolCommandName>
     
     <!-- Nuspec -->
-    <PackageId>atlas-ef</PackageId>
+    <PackageId>atlas-provider-ef</PackageId>
     <Authors>ariga</Authors>
     <Description>Atlas Provider for EntityFramework Core</Description>
     <PackageProjectUrl>https://atlasgo.io</PackageProjectUrl>

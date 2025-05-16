@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A0F935A4-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.Provider.Test", "test\Atlas.Provider.Test\Atlas.Provider.Test.csproj", "{D34350D9-C254-4187-A908-00EA03DDE2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlas.Provider.Demo", "src\Atlas.Provider.Demo\Atlas.Provider.Demo.csproj", "{173EA6FC-B2D1-49CF-BC22-C52674CEA11A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +36,10 @@ Global
 		{D34350D9-C254-4187-A908-00EA03DDE2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D34350D9-C254-4187-A908-00EA03DDE2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D34350D9-C254-4187-A908-00EA03DDE2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173EA6FC-B2D1-49CF-BC22-C52674CEA11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173EA6FC-B2D1-49CF-BC22-C52674CEA11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173EA6FC-B2D1-49CF-BC22-C52674CEA11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173EA6FC-B2D1-49CF-BC22-C52674CEA11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{003BD0CC-7AF6-408C-A40D-3FE8F6C73537} = {C41D6C7A-456B-4A0B-ACE1-9931DA092288}
